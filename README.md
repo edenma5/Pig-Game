@@ -1,2 +1,3 @@
 # Pig-Game
- Jonas Schamedtmann course
+Challenging and very fun game-
+Programming languages - JavaScript, HTML, CSS
